@@ -1,0 +1,20 @@
+[package]
+name = "ent-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Entropy and randomness analysis tool for binary files (Rust port of ent.hpp)"
+readme = "README.md"
+license = "MIT"
+authors = ["Håkan Blomqvist <blomqvist@gmail.com>"]
+repository = "https://github.com/chbtoys/ent-rs"
+keywords = ["entropy", "compression", "statistics", "randomness", "analysis"]
+categories = ["command-line-utilities", "data-structures", "science"]
+documentation = "https://docs.rs/ent-rs"
+exclude = ["/.github", "/target", "*.log", "*.tmp"]
+
+[dependencies]
+statrs = "0.16"
+
+[lib]
+name = "ent_rs"
+path = "src/lib.rs"
