@@ -1,3 +1,7 @@
+[![crates.io](https://img.shields.io/crates/v/ent-rs.svg)](https://crates.io/crates/ent-rs)
+[![docs.rs](https://docs.rs/ent-rs/badge.svg)](https://docs.rs/ent-rs)
+[![CI](https://github.com/YOURUSERNAME/ent-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/YOURUSERNAME/ent-rs/actions)
+
 # ent-rs
 
 **ent-rs** is a Rust library for analyzing the entropy and randomness characteristics of binary data. It is a Rust port and extension of the functionality from Håkan Blomqvist's `ent.hpp`.
