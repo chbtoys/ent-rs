@@ -4,7 +4,7 @@
 
 # ent-rs
 
-**ent-rs** is a Rust library for analyzing the entropy and randomness characteristics of binary data. It is a Rust port and extension of the functionality from Håkan Blomqvist's `ent.hpp`.
+**ent-rs** is a Rust library for analyzing the entropy and randomness characteristics of binary data. It is a Rust port and extension of the functionality from Tucker's `ent.hpp`.
 
 It is useful for evaluating:
 - Compression potential
