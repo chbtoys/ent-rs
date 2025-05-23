@@ -32,7 +32,9 @@ ent-rs = "0.1"
 
 ## Example
 
+```rust
 use ent_rs::EntStats;
 let data = std::fs::read("mydata.bin").unwrap();
 let stats = EntStats::from_data(&data, false);
 println!("Entropy: {:.4}", stats.entropy);
+```
