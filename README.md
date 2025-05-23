@@ -1,6 +1,6 @@
 [![crates.io](https://img.shields.io/crates/v/ent-rs.svg)](https://crates.io/crates/ent-rs)
 [![docs.rs](https://docs.rs/ent-rs/badge.svg)](https://docs.rs/ent-rs)
-[![CI](https://github.com/YOURUSERNAME/ent-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/YOURUSERNAME/ent-rs/actions)
+[![CI](https://github.com/chbtoys/ent-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/chbtoys/ent-rs/actions)
 
 # ent-rs
 
