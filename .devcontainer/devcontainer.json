@@ -1,0 +1,5 @@
+{
+  "name": "ent-rs Rust Dev",
+  "image": "mcr.microsoft.com/devcontainers/rust:latest",
+  "postCreateCommand": "cargo --version"
+}
