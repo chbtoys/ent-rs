@@ -1,8 +1,8 @@
 [package]
 name = "ent-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-description = "Entropy and randomness analysis tool for binary files (Rust port of ent.hpp)"
+description = "A Rust library for analyzing entropy, randomness, and statistical structure of binary data"
 readme = "README.md"
 license = "MIT"
 authors = ["Håkan Blomqvist <blomqvist@gmail.com>"]
